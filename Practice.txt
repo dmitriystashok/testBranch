@@ -1,0 +1,4 @@
+Test
+Another test
+Renamed file from test to Practice
+used git reset HEAD
