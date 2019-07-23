@@ -1,3 +1,5 @@
 Practice file
 This text to be added
 moved file to untracked after commit, using reset HEAD <filename>
+test stash
+test
